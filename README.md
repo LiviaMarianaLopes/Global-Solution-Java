@@ -1,5 +1,5 @@
 <h1 align="center"> Global Solution Java</h1>
-<h2 align="center">Projeto com recursos para a melhoria da saúde voltado para idosos e cuidadores👩‍⚕️</h2>
+<h2 align="center">Projeto com recursos para a melhoria da saúde voltado para idosos, crianças, PCDs e cuidadores👩‍⚕️</h2>
 <h4 align="center">
 	🚧   Concluído 🚀 🚧
 </h4>
